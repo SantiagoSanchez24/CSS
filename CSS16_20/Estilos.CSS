@@ -1,0 +1,48 @@
+.codigofuente {
+  font-size:12px;
+  background-color:#ffffcc;
+  border-width:1px;
+  border-style:dotted;
+  border-color:#ffaa00;
+
+  padding:20px;
+}
+p {
+  background-color:#ffffaa;
+  margin:0px;
+  border-width:1px;
+  border-style:solid;
+  border-color:#ff0000;
+}
+
+.vacio{
+  list-style-type:none;
+}
+.circulorelleno{
+  list-style-type:disc;
+}
+.decimal{
+  list-style-type:decimal;
+}
+.romanominuscula{
+  list-style-type:lower-roman;
+}
+.romanomayuscula{
+  list-style-type:upper-roman;
+}
+.circulovacio{
+  list-style-type:circle;
+}
+.cuadrado{
+  list-style-type:square;
+}
+.letrasminusculas{
+  list-style-type:lower-alpha;
+}
+.letrasmayusculas{
+  list-style-type:upper-alpha;
+}
+
+p {
+  font:bold italic 25px verdana;
+}
